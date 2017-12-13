@@ -6,3 +6,5 @@ Accelerating Smith-Waterman Algorithm by Parallel Method
 2.Investigated the advantages and disadvantages of different parallel programming models (MPI, OpenMP and
 Pthread)
 3.Implemented the algorithm searching biology database on the multi-core processor with OpenMP
+#
+I paralleled original source code. It took me a lot of time to read and understand the structure of the code and parallel it properly and effciently.
